@@ -1,4 +1,4 @@
-#ReactJS page progress indicator
+# ReactJS page progress indicator
 
 Simple page progress indicator component built in ReactJS.
 
